@@ -58,16 +58,18 @@ I'm a full-stack developer focused on **design engineering** — crafting access
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=starboyvarun&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=24292e&currStreakNum=667eea&sideNums=24292e&dates=6e7681" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboyvarun&layout=compact&bg_color=ffffff&border_color=e1e4e8&title_color=667eea&text_color=24292e&langs_count=8" width="48%" />
-</p>
-
 ---
 
-## Activity
+## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starboyvarun&bg_color=ffffff&color=667eea&line=667eea&point=764ba2&area=true&area_color=eef0ff&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starboyvarun&theme=github" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starboyvarun&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starboyvarun&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starboyvarun&theme=github&utcOffset=5.5" width="32%" />
 </p>
 
 ---
@@ -90,10 +92,6 @@ I'm a full-stack developer focused on **design engineering** — crafting access
   <a href="mailto:varun2735126@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-764ba2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  🔗 <a href="https://www.linkedin.com/in/varun-allen-singh-b06030128/">linkedin.com/in/varun-allen-singh-b06030128</a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
