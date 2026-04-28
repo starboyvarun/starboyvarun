@@ -1,84 +1,73 @@
-### Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Varun
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Varun%20Allen%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Design%20Engineer%20%E2%80%A2%20Frontend%20Specialist%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=60&descColor=ffffffcc" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Frontend+Enthusiast;Open+Source+Contributor;React+%26+TypeScript+Specialist&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=6C63FF">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=900&color=667EEA&center=true&vCenter=true&width=620&lines=Building+accessible+%26+beautiful+UIs+%F0%9F%8E%A8;Contributing+to+Adobe+React+Spectrum+%E2%9C%A8;TypeScript+%7C+React+%7C+Design+Systems;Frontend+%E2%86%92+Full-Stack+%E2%86%92+Open+Source" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  <img src="https://img.shields.io/badge/Design%20Engineer-667eea?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-764ba2?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=starboyvarun&color=667eea&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a full-stack developer with a strong focus on frontend engineering — building scalable, accessible, and user-friendly web applications using modern React and TypeScript.
+I'm a full-stack developer focused on **design engineering** — crafting accessible, pixel-perfect interfaces and contributing to open-source design systems at scale.
 
-- 🔭 Currently contributing to open-source projects including [Adobe React Spectrum](https://github.com/adobe/react-spectrum)
-- 🌱 Deepening expertise in **React**, **TypeScript**, and **design systems**
-- 👯 Looking to collaborate on **accessible UI components** and **frontend architecture**
-- 📝 Writing about frontend technologies and software engineering on Medium
-- ⚡ Outside of work: traveling, hiking, badminton, and helping others
+- 🎨 Contributing to **[Adobe React Spectrum](https://github.com/adobe/react-spectrum)** — accessible component library used by millions
+- 🔬 Passionate about **design systems**, **React architecture**, and **component accessibility (ARIA)**
+- 🌱 Exploring the intersection of great **design** and **engineering**
+- ✍️ Writing about frontend patterns and DX on **Medium**
+- 🏸 Outside of code: hiking, badminton, and traveling the world
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind&perline=6" />
+</p>
+<p align="center"><sub>TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Tailwind</sub></p>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br/>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,py,go,mongodb,mysql&perline=6" />
+</p>
+<p align="center"><sub>Node.js &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL</sub></p>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
-### ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,figma&perline=6" />
+</p>
+<p align="center"><sub>TensorFlow &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Figma</sub></p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starboyvarun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starboyvarun&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=starboyvarun&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=667eea&text_color=24292e&icon_color=764ba2&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starboyvarun&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=24292e&currStreakNum=667eea&sideNums=24292e&dates=6e7681" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboyvarun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboyvarun&layout=compact&bg_color=ffffff&border_color=e1e4e8&title_color=667eea&text_color=24292e&langs_count=8" width="48%" />
 </p>
 
 ---
 
-## Activity Graph
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starboyvarun&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starboyvarun&bg_color=ffffff&color=667eea&line=667eea&point=764ba2&area=true&area_color=eef0ff&hide_border=true" />
 </p>
 
 ---
@@ -86,22 +75,21 @@ I'm a full-stack developer with a strong focus on frontend engineering — build
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=starboyvarun&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=starboyvarun&theme=flat&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-## Connect with Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varun-allen-singh-b06030128/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:varun2735126@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-764ba2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starboyvarun&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
