@@ -92,4 +92,8 @@ I'm a full-stack developer focused on **design engineering** — crafting access
   </a>
 </p>
 
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/varun-allen-singh-b06030128/">linkedin.com/in/varun-allen-singh-b06030128</a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
