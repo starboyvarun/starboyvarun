@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Varun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor&descSize=18&descAlignY=60&descColor=ffffffcc" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=900&color=667EEA&center=true&vCenter=true&width=620&lines=Building+accessible+%26+beautiful+UIs+%F0%9F%8E%A8;Contributing+to+Adobe+React+Spectrum+%E2%9C%A8;TypeScript+%7C+React+%7C+Design+Systems;Frontend+%E2%86%92+Full-Stack+%E2%86%92+Open+Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=900&color=667EEA&center=true&vCenter=true&width=620&lines=Building+accessible+%26+beautiful+UIs+%F0%9F%8E%A8;Contributing+to+Open+Source+Projects+%E2%9C%A8;TypeScript+%7C+React+%7C+Design+Systems;Frontend+%E2%86%92+Full-Stack+%E2%86%92+Open+Source" />
 </p>
 
 <br/>
@@ -20,7 +20,7 @@
 
 I'm a full-stack developer focused on **design engineering** — crafting accessible, pixel-perfect interfaces and contributing to open-source design systems at scale.
 
-- 🎨 Contributing to **[Adobe React Spectrum](https://github.com/adobe/react-spectrum)** — accessible component library used by millions
+- 🎨 Actively contributing to **open source** — accessible component libraries and design systems
 - 🔬 Passionate about **design systems**, **React architecture**, and **component accessibility (ARIA)**
 - 🌱 Exploring the intersection of great **design** and **engineering**
 - ✍️ Writing about frontend patterns and DX on **Medium**
