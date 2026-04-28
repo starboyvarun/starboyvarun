@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-## I'm a full-stack developer and am now proficient in both front-end and back-end development. I'm currently focusing on enhancing my skills in front-end technologies, which are essential for building scalable, responsive, and user-friendly web applications.
+## I'm a full -stack developer and am now proficient in both front-end and back-end development. I'm currently focusing on enhancing my skills in front-end technologies, which are essential for building scalable, responsive, and user-friendly web applications.
 - 🔭 Aside from my development work, I'm also passionate about sharing my knowledge and research with others. I'm about to launch my blogs on Medium, where I'll be sharing insights and ideas on various topics related to frontend technologies, software engineering, machine learning, and deep learning.
 - 🌱 I’m currently learning Frontend Frameworks.
 - 👯 I’m looking to collaborate with other Researcher's.
