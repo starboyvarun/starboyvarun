@@ -51,6 +51,20 @@ I'm a full-stack developer focused on **design engineering** — crafting access
 
 ---
 
+## Open Source Contributions
+
+| Project | Description | PR / Status |
+|---|---|---|
+| [razorpay/blade](https://github.com/razorpay/blade) | Add `zIndex` as a global design token — moved hardcoded z-index values into the Blade token system so they're themeable via `createTheme()` | [#3357](https://github.com/razorpay/blade/pull/3357) · Under Review |
+| [mui/material-ui](https://github.com/mui/material-ui) | Auto-generate accessible `id` / `aria-controls` on Accordion using `React.useId()` | [#48326](https://github.com/mui/material-ui/pull/48326) · Under Review |
+| [mui/material-ui](https://github.com/mui/material-ui) | Fix MenuItem text shift on first hover caused by GPU layer demotion after Grow animation | [#48329](https://github.com/mui/material-ui/pull/48329) · Under Review |
+| [facebook/react](https://github.com/facebook/react) | Fix false hydration mismatch warning when a portal renders on client after server returns `null` | [#36321](https://github.com/facebook/react/pull/36321) · Under Review |
+| [facebook/react](https://github.com/facebook/react) | Warn when `NaN` is passed as an `aria-*` attribute value — closes a silent gap in React's ARIA validation | [#36340](https://github.com/facebook/react/pull/36340) · Under Review |
+
+📖 Full write-ups with root cause analysis and learnings: [opensource-journey](https://github.com/starboyvarun/opensource-journey)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
