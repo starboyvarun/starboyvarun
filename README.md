@@ -20,7 +20,7 @@
 
 I'm a Senior full-stack developer focused on **design engineering** — crafting accessible, pixel-perfect interfaces and contributing to open-source design systems at scale.
 
-- 🎨 Actively contributing to **open source** — accessible component libraries and design systems
+- 🎨 Actively contributing to **open source projects**
 - 🔬 Passionate about **design systems**, **React architecture**, and **component accessibility (ARIA)**
 - 🌱 Exploring the intersection of great **design** and **engineering**
 - ✍️ Writing about frontend patterns and DX on **Medium**
